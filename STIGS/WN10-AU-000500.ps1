@@ -13,11 +13,6 @@
     Plugin IDs      : N/A
     STIG-ID         : WN10-AU-000500
 
-.TESTED ON
-    Date(s) Tested  : 
-    Tested By       : 
-    Systems Tested  : 
-    PowerShell Ver. : 
 
 .USAGE
     Put any usage instructions here.
