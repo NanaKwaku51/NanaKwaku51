@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Threat Hunting Projects
 - **[Threat-Hunting-Incident-Public-Facing-IP-Detection](https://github.com/NanaKwaku51/Threat-Hunting-Incident-Public-Facing-IP-Detection)**
-- **[Threat-Hunting-Sudden-Network-Slowdowns(https://github.com/NanaKwaku51/Sudden-Network-Slowdowns/blob/main/README.md)**
+- **[Threat-Hunting-Sudden-Network-Slowdowns](https://github.com/NanaKwaku51/Sudden-Network-Slowdowns/tree/main)**
 
 <hr/>
 
